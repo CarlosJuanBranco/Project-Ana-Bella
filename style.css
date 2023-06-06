@@ -7,7 +7,7 @@ body {
     width: 900px;
 }
 
-#menu{
+#menu {
     background: #c5c5b2;
     padding: 18px;
 }
@@ -17,6 +17,10 @@ body {
     padding: 15px;
 }
 
+#rodape {
+    text-align: center;
+}
+
 a {
     color: #4b566a;
     text-decoration: none;
@@ -24,6 +28,11 @@ a {
     font-weight: bold;
 }
 
-.centralizar {
-    text-align: center;
+h1 {
+    font-size: 1.2em;
+    color: #828271;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3ae;
 }
