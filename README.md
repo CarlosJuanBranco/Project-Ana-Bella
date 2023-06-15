@@ -22,7 +22,7 @@ Além disso é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone <https://github.com/CarlosJuanBranco/Project-Ana-Bella.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ProjetoFinalHtml
+$ cd Projeto Ana Bella
 
 # Instale as dependências
 $ npm install
